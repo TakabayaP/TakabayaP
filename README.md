@@ -1,4 +1,4 @@
-takabayp, Waseda Univ. The Department of Intermedia Art and Science
+Waseda Univ. Graduate School of Fundamental Science and Engineering, Department of Intermedia Studies
 
 <!---
 TakabayaP/TakabayaP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
